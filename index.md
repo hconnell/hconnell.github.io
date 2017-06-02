@@ -1,6 +1,14 @@
-## Welcome to GitHub Pages
+## Hi There!
 
-You can use the [editor on GitHub](https://github.com/hconnell/hconnell.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+As part of my Hack Day project for this quarter, I spent some time becoming familiar with Github.
+This is about as much as I've managed to achieve.
+
+Although I also managed to create a few additional projects that have no content in them. 
+See [Showcase](https://hconnell.github.io/Showcase) and [Hack-Day](https://hconnell.github.io/hack-day)
+
+
+### For future reference:
+You can use the [editor on GitHub](https://github.com/hconnell/hconnell.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

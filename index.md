@@ -7,7 +7,7 @@ Although I also managed to create a few additional projects that have no content
 See [Showcase](https://hconnell.github.io/showcase) and [Hack-Day](https://hconnell.github.io/hack-day)
 
 
-###Things I want to do as I learn more about this stuff
+### Things I want to do as I learn more about this stuff
 [ ] Add some navigation
 [ ] Add some images
 [ ] See what else I can do with these pages

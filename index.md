@@ -8,7 +8,7 @@ See [Showcase](https://hconnell.github.io/showcase) and [Hack-Day](https://hconn
 
 
 ### Things I want to do as I learn more about this stuff
-[ ] Add some navigation
-[ ] Add some images
-[ ] See what else I can do with these pages
-[ ] Take a look at some other folks pages to see what they have done.
+- [ ] Add some navigation
+- [ ] Add some images
+- [ ] See what else I can do with these pages
+- [ ] Take a look at some other folks pages to see what they have done.

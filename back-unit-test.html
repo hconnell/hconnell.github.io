@@ -29,7 +29,8 @@
 		travelers: '2',	              
  
 	/* Flight parameters */
-		page_id: 'flight.list',		
+	//	page_id: 'flight.list',		
+		page_id: 'hotel.clickout'
 		trip_type: 'roundtrip', 	                
 		flight_origin: 'lax',		
 		flight_destination: 'sea'
@@ -40,6 +41,22 @@
 	//	hotel_state: 'IL',
 	//	hotel_country: 'US',
 	//	hotel_rooms: '1'			
+
+		/* Conversion parameters  */
+		total_conversion_value: '100.00',	  	
+		order_id: 'TEST_ORDER',	                              	
+		click_id: 'test-click-id'					
+	
+		}; 
+		(function() {
+		var script = document.createElement("script");
+		var url = '//a.cdn.intentmedia.net/javascripts/intent_media_meta_conversions.js';
+		script.src = url;
+		script.async = true;
+		document.getElementsByTagName("head")[0].appendChild(script);
+		}());
+ 
+		</script>
 
 		
 	};

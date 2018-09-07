@@ -69,6 +69,13 @@ a:focus { color: black; }
 a:hover { color: green; }
 a:active { color: red; }
 
+ul, li
+{
+	width: 100%;
+	margin-bottom: 15px;
+}
+
+
 /* -----------------------
 Layout styles
 ------------------------*/
@@ -104,6 +111,7 @@ Layout styles
 .main, .aside
 {
 	margin-bottom: 1em;
+	word-wrap: break-word;
 }
 
 .footer
@@ -246,6 +254,7 @@ Wide styles
 		width: 65%;
 		margin-right: 5%;
 		margin-bottom: 1em;
+		word-wrap: break-word;
 	}
 
 	.aside
